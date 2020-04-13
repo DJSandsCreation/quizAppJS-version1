@@ -1,0 +1,32 @@
+body {
+  color: rgb(34, 31, 31);
+  font-family: "Gotham Rounded A", "Gotham Rounded B", "Gotham Rounded", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
+  background: rgb(6, 46, 251);
+  background: radial-gradient(circle, rgba(6, 46, 251, 1) 0%, rgba(249, 7, 55, 0.48783263305322133) 100%);
+  /* background-color: #f11f30; */
+  /* background-image: url(man.jpg); */
+
+}
+
+main {
+  width: 90%;
+  max-width: 1080px;
+  padding: 40px 0 0;
+  margin: 0 auto;
+
+}
+
+h1 {
+  font-size: 3.75em;
+  color: white;
+}
+
+h2 {
+  font-size: 2.25em;
+}
+
+p {
+  font-size: 2.15em;
+  line-height: 1.5;
+}
